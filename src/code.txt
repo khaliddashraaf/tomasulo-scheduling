@@ -1,0 +1,2 @@
+ADD.D F2,F2,F2
+MUL.D F2,F3,F9
